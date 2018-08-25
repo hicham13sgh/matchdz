@@ -1,1 +1,13 @@
-لا اوجد مباريات
+[
+    {
+        "team": "لا اوجد مباريات",
+        "team2": "",
+        "team_image": "",
+        "team_image2": "",
+        "result": "",
+        "time": "",
+        "champion": "",
+        "channels": "",
+        "linkmatch": ""
+    }
+]
