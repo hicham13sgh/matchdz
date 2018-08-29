@@ -1,16 +1,5 @@
 [
     {
-        "team": "اتحاد الجزائر",
-        "team2": "غور ماهيا",
-        "team_image": "https://upload.wikimedia.org/wikipedia/ar/7/73/USM_Alger.png",
-        "team_image2": "http://www.yalla-shoot.com/images/upload/images/1521329164.png",
-        "result": "جارية",
-        "time": "2:00",
-        "champion": "حفيظ دراجي",
-        "channels": "بي ان سبورت 1",
-        "linkmatch": "http://match12live.blogspot.com/2018/08/Usma-Live.html"
-    },
-    {
         "team": "المصري البورسعيدي",
         "team2": "الهلال السوداني",
         "team_image": "https://upload.wikimedia.org/wikipedia/ar/thumb/6/61/Masry.png/200px-Masry.png",
@@ -42,5 +31,17 @@
         "champion": "محمد بركات",
         "channels": "بي ان سبورت 2",
         "linkmatch": "http://match12live.blogspot.com/2018/04/beIN-Sport-HD2-live-channel.html"
+  
     }
+    {
+        "team": "اتحاد الجزائر",
+        "team2": "غور ماهيا",
+        "team_image": "https://upload.wikimedia.org/wikipedia/ar/7/73/USM_Alger.png",
+        "team_image2": "http://www.yalla-shoot.com/images/upload/images/1521329164.png",
+        "result": "انتهت",
+        "time": "2:00",
+        "champion": "حفيظ دراجي",
+        "channels": "بي ان سبورت 1",
+        "linkmatch": "http://match12live.blogspot.com/2018/08/Usma-Live.html"
+    },  
 ]
